@@ -14,6 +14,9 @@ List of repositories
 ====================
 This Github organisation contains the code underlying the climate and impact attribution framework developed and tested by the project in the Use Cases. The impact attribution framework will combine advancements in the compound hazard modelling, dynamic exposure and vulnerability and it will be used to test different attribution methods. Each repository contains a README file that explains its purpose, structure, its link to the framework and how to use it. Each repository is maintained by one of the partner of the project and more repositories will be added during the project when new developements are ready. 
 
+Advancements of the compound hazard modelling:
+- :ocean: :national_park: :cloud_with_rain: automated workflows for [tropical cyclones](https://github.com/HORIZON-COMPASS/compound-flooding-tropical-cyclones) flood modelling and postprocessing 
+
 Use Cases
 =========
 The Use Cases (UCs) are a testbed for the impact attribution framework being developed in the COMPASS project. Each UC will result in an impact attribution analysis but focusing on specific methodological innovations for different parts of the attribution framework. Phase I of the project focuses on five UCs (2024-2025), that includes either recent events or a specific region to test the potential for an operational service (see Figure below). In Phase II of the project (2026), the methodological framework will be applied to a second set of UCs that are not predefined but that will be selected during the project. Results from the attribution studies will be published on the [COMPASS open research repository](https://zenodo.org/communities/compass/records?q=&l=list&p=1&s=10&sort=newest).
