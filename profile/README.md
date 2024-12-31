@@ -1,7 +1,7 @@
 Welcome to the COMPASS Github organization
 ==========================================
 
-The **HORIZON-COMPASS** GitHub organization contains the outputs of the **COMPASS** project funded under the European Union's HORIZON RIA programme. COMPASS aims to develop a harmonized, yet flexible, methodological framework for **climate and impact attribution** of various complex **extremes** that include compound, sequential and cascading hazard events. 
+The **HORIZON-COMPASS** GitHub organization contains the outputs of the **COMPASS** project funded under the European Union's HORIZON RIA programme. COMPASS (COMPound extremes Attribution of climate change: towardS an operational Service) aims to develop a harmonized, yet flexible, methodological framework for **climate and impact attribution** of various complex **extremes** that include compound, sequential and cascading hazard events. 
 
 - :card_file_box: 	
 :open_book: [COMPASS open research repository](https://zenodo.org/communities/compass/records?q=&l=list&p=1&s=10&sort=newest) for datasets and public deliverables from the project on Zenodo
