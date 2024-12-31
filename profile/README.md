@@ -33,7 +33,7 @@ Project partners
 
 Usage and Licenses
 ==================
-The COMPASS project is dedicated to promoting open science practices. All the code (this page) and data (uploaded on the open research Zenodo repository) produced within the project abide by the FAIR principles and have an open-access license as mentioned in the data management plan. Each repository selects its own open-access license that ensures open access. 
+The COMPASS project is dedicated to promoting open science practices. All the repositories under this organisation (this page) and data (uploaded on the open research Zenodo repository) produced within the project abide by the FAIR principles and have an open-access license as mentioned in the data management plan. Each repository selects its own open-access license that ensures open access. 
 
 **Disclaimer**
 
