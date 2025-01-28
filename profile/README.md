@@ -30,6 +30,7 @@ Project partners
 - [Met Office](https://www.metoffice.gov.uk/)
 - [Red Cross Red Crescent Climate Centre](https://www.climatecentre.org/)
 - [SEVEN](http://www.seven-solutions.eu/)
+- [University of Szczecin](https://dsm.usz.edu.pl/en/home-page/)
 
 Usage and Licenses
 ==================
