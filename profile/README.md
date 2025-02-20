@@ -14,8 +14,10 @@ List of repositories
 ====================
 This Github organisation contains the code underlying the climate and impact attribution framework developed and tested by the project in the Use Cases. The impact attribution framework will combine advancements in the compound hazard modelling, dynamic exposure and vulnerability and it will be used to test different attribution methods. Each repository contains a README file that explains its purpose, structure, its link to the framework and how to use it. Each repository is maintained by one of the partner of the project and more repositories will be added during the project when new developements are ready. 
 
-Advancements of the compound hazard modelling:
-- :ocean: :national_park: :cloud_with_rain: automated workflows for [tropical cyclones](https://github.com/HORIZON-COMPASS/compound-flooding-tropical-cyclones) flood modelling and postprocessing 
+Advancements in compound hazard modelling:
+- :ocean: :national_park: :cloud_with_rain: automated workflows for [tropical cyclones](https://github.com/HORIZON-COMPASS/compound-flooding-tropical-cyclones) flood modelling and postprocessing
+Advancements in impact modelling:
+- :family: :factory: :house_with_garden: [global exposure dataset](https://github.com/HORIZON-COMPASS/Exposure-and-vulnerability-modelling/tree/D3_1_final) for impact attribution at multiple scales (population, GDP, fixed asset value, 1850-2100) 
 
 Use Cases
 =========
