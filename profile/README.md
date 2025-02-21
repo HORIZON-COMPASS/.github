@@ -17,7 +17,7 @@ This Github organisation contains the code underlying the climate and impact att
 Advancements in compound hazard modelling:
 - :ocean: :national_park: :cloud_with_rain: automated workflows for [tropical cyclones](https://github.com/HORIZON-COMPASS/compound-flooding-tropical-cyclones) flood modelling and postprocessing
 Advancements in impact modelling:
-- :family: :factory: :house_with_garden: [global exposure dataset](https://github.com/HORIZON-COMPASS/Exposure-and-vulnerability-modelling/tree/D3_1_final) for impact attribution at multiple scales (population, GDP, fixed asset value, 1850-2100) 
+- :family: :factory: :house_with_garden: methodology and workflow for [global exposure datasets](https://github.com/HORIZON-COMPASS/Exposure-and-vulnerability-modelling/tree/D3_1_final) for impact attribution at multiple scales (population, GDP, fixed asset value, 1850-2100) 
 
 Use Cases
 =========
