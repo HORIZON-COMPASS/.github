@@ -21,7 +21,10 @@ Advancements in impact modelling:
 - :family: :factory: :house_with_garden: methodology and workflow for [global exposure datasets](https://github.com/HORIZON-COMPASS/Exposure-and-vulnerability-modelling/tree/D3_1_final) for impact attribution at multiple scales (population, GDP, fixed asset value, 1850-2100)
 
 Integration of datasets and models for compound events:
-- ☀️ 🌧️ 🔡 modular and scalable [workflow framework](https://github.com/HORIZON-COMPASS/Integration-of-datasets-and-models) designed to support the impact attribution of climate-related compound events 
+- ☀️ 🌧️ 🔡 modular and scalable [workflow framework](https://github.com/HORIZON-COMPASS/Integration-of-datasets-and-models) designed to support the impact attribution of climate-related compound events
+
+Observation-based counterfactual climate data:
+- 🌡 📉 📊 [ATTRICI toolbox](https://github.com/ISI-MIP/attrici/releases/tag/v2.0.0) for generating counterfactual climate datasets from observations by removing global-mean-temperature-driven trends
 
 Use Cases
 =========
